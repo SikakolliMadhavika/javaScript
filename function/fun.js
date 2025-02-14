@@ -43,7 +43,7 @@ startProcess()
 
 // Q6
 function greetUser(userName){
-    console.log("Hello, ${userName}!")
+    console.log("Hello,",userName)
 }
 greetUser('Madhu')
 greetUser('Madhavika')
